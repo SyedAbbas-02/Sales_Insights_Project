@@ -73,7 +73,7 @@ The dashboard is built using **5 tables** from the database:
 
 ---
 
-## Project Screenshots
+## Project Screenshots & Demo Video
 
 1. **Full Dashboard**  
    ![Full Dashboard](screenshots/dashboard_full.png)
@@ -92,6 +92,14 @@ The dashboard is built using **5 tables** from the database:
 
 6. **Model View (Relationships Between Tables)**  
    ![Model View](screenshots/data_model.png)
+
+7. **Dashboard Demo Video**
+   <video width="600" controls>
+      <source src="screenshots/Sales_Insights_Dashboard_Demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+   
+   [Watch Dashboard Demo](screenshots/Sales_Insights_Dashboard_Demo.mp4)
 
 ---
 
@@ -113,9 +121,17 @@ All SQL queries used to generate the data for the dashboard are saved in **Sales
 ```
 Sales_Insights_Project/
 │
-├── Sales_Insights_Dashboard.pbix   # Power BI Dashboard
-├── Sales_Insights_Queries.sql      # SQL queries for data extraction
-└── README.md                       # Project documentation
+├── Sales_Insights_Dashboard.pbix           # Power BI Dashboard
+├── Sales_Insights_Queries.sql              # SQL queries for data extraction
+├── README.md                               # Project documentation
+└── screenshots/
+    ├── dashboard_full.png                  # Full Dashboard Screenshot
+    ├── revenue_trend.png                   # Revenue Trend Line Chart
+    ├── sales_by_market.png                 # Total Sales by Market Treemap
+    ├── profit_waterfall.png                # Profit Contribution Waterfall Chart
+    ├── slicer_2019.png                     # Filtered View 2019 Screenshot
+    ├── data_model.png                       # Model View
+    └── Sales_Insights_Dashboard_Demo.mp4  # Dashboard Demo Video
 ```
 
 ---
