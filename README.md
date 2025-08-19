@@ -98,7 +98,7 @@ The dashboard is built using **5 tables** from the database:
       <source src="screenshots/Sales_Insights_Dashboard_Demo.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
-   
+
    [Watch Dashboard Demo](screenshots/Sales_Insights_Dashboard_Demo.mp4)
 
 ---
@@ -117,7 +117,6 @@ All SQL queries used to generate the data for the dashboard are saved in **Sales
 ---
 
 ## File Structure
-
 ```
 Sales_Insights_Project/
 │
@@ -130,8 +129,8 @@ Sales_Insights_Project/
     ├── sales_by_market.png                 # Total Sales by Market Treemap
     ├── profit_waterfall.png                # Profit Contribution Waterfall Chart
     ├── slicer_2019.png                     # Filtered View 2019 Screenshot
-    ├── data_model.png                       # Model View
-    └── Sales_Insights_Dashboard_Demo.mp4  # Dashboard Demo Video
+    ├── data_model.png                      # Model View
+    └── Sales_Insights_Dashboard_Demo.mp4   # Dashboard Demo Video
 ```
 
 ---
