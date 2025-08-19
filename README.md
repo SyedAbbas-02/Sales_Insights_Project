@@ -100,10 +100,7 @@ The dashboard is built using **5 tables** from the database:
    </video>
 
    [Watch Dashboard Demo](screenshots/Sales_Insights_Dashboard_Demo.mp4)
-
-8.**Dashboard Preview**
-   ![Dashboard Preview](screenshots/Sales_Insights_Dashboard_Demo.gif)
-
+   
 ---
 
 ## SQL Queries
