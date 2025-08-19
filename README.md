@@ -1,4 +1,4 @@
-# 📊 Sales Insights Dashboard
+# 📊 Sales Insights Performance Analysis
 
 ## Project Overview
 
