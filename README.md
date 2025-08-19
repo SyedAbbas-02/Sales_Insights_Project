@@ -98,10 +98,11 @@ The dashboard is built using **5 tables** from the database:
       <source src="screenshots/Sales_Insights_Dashboard_Demo.mp4" type="video/mp4">
       Your browser does not support the video tag.
    </video>
+
    [Watch Dashboard Demo](screenshots/Sales_Insights_Dashboard_Demo.mp4)
 
 8.**Dashboard Preview**
-   ![Dashboard Preview](screenshots/dashboard_demo.gif)
+   ![Dashboard Preview](screenshots/Sales_Insights_Dashboard_Demo.gif)
 
 ---
 
