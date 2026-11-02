@@ -6,6 +6,14 @@ The **Sales Insights Dashboard** provides a comprehensive view of the company’
 
 ---
 
+**Tools:** SQL, Power BI (DAX) | **Open it:** download `Sales_Insights_Dashboard.pbix` and open in Power BI Desktop
+
+---
+
+**Headline findings:** Own Brand products drove about 72% of sales and 77% of profit. One customer generated about 33% of revenue, and the top three customers about 45%, a concentration risk.
+
+---
+
 ## Data Source
 
 The dashboard is built using **5 tables** from the database:
